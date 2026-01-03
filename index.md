@@ -18,7 +18,7 @@
 
 چگونه از Element استفاده کنیم:
 
-1.اپلیکیشن Element یا Element X را دانلود کنید: از [گوگل پلی] یا (https://f-droid.org/en/packages/io.element.android.x/)[F-Droid] برای اندروید، وبرای ios از [اپ استور](https://apps.apple.com/app/id1631335820) یا سایت رسمی (https://element.io) آن.
+1.اپلیکیشن Element یا Element X را دانلود کنید: از [گوگل پلی] یا [F-Droid](https://f-droid.org/en/packages/io.element.android.x/) برای اندروید، وبرای ios از [اپ استور](https://apps.apple.com/app/id1631335820) یا سایت رسمی (https://element.io) آن.
  
 2. یک "Homeserver" انتخاب کنید: این مهم‌ترین مرحله است. Homeserver پایگاه اصلی حساب شماست.   
    **توصیه مهم**: از سرور پیش‌فرض matrix.org یا سرورهای عمومی معتبر دیگر استفاده کنید. ( میتوانید از سرور [Wiiz.ir](http://Wiiz.ir) استفاده کنید). و از ساخت حساب روی سرورهای ناشناس خودداری کنید، مگر اینکه مدیر آن را کاملاً بشناسید و اعتماد صددرصدی داشته باشید.  
