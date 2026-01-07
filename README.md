@@ -1,3 +1,35 @@
+---
+layout: default
+---
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;400;700&display=swap');
+
+  body { 
+    direction: rtl; 
+    text-align: right; 
+    font-family: 'Vazirmatn', sans-serif !important; 
+  }
+
+   html {
+    font-size: 24px !important;
+  }
+
+  .main-content, .page-header, .site-header, h1, h2, h3, h4, p, li, a {
+    font-family: 'Vazirmatn', sans-serif !important;
+    direction: rtl;
+    text-align: right;
+  }
+
+  .page-header {
+    text-align: center;
+  }
+
+  .main-content, .page-header {
+    max-width: 90% !important;
+    margin: 0 auto !important;
+  }
+</style>
 # راهنمای اینترنت آزاد: چگونه در زمان قطعی اینترنت، همچنان با دیگران در ارتباط بمانیم؟
 
 ---
@@ -6,7 +38,8 @@
 
 ارتباط با سایرین بخش مهمی از زندگی ماست، و اینترنت نقش پررنگی در آن دارد، اما گاهی دسترسی به آن محدود یا قطع می‌شود. برای حل این مشکل، راه‌کارها و شبکه‌های غیرمتمرکزی وجود دارند که توسط **هیچ نهاد واحدی** کنترل نمی‌شوند و امکان ارتباط امن حتی در شرایط سخت را فراهم می‌کنند.
 
-(روش پیشنهادی: استفاده از دلتاچت )
+(روش پیشنهادی: استفاده از دلتاچت ) [راهنمای کامل ثبت‌نام و ارتباط بواسطه دلتاچت](Deltachat.md)
+
 ---
 <br>
 
@@ -34,7 +67,10 @@
 
 <img src="Element.jpg">
 
-## 2\. دلتاچت (Delta Chat) (توصیه شده برای اختلال امروز)
+## 2. دلتاچت (Delta Chat) (توصیه شده برای اختلال امروز)
+
+# [راهنمای کامل ثبت‌نام و ارتباط بواسطه دلتاچت](Deltachat.md)
+
 
 هدف دلتاچت تبدیل ایمیل به یک پیام‌رسان امن است\! این اپلیکیشن ظاهری شبیه به بقیه دارد، اما در پشت صحنه، پیام‌های شما را از طریق سرور ایمیل‌تان و رمزنگاری شده ارسال و دریافت می‌کند.
 
