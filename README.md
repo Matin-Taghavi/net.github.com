@@ -1,35 +1,4 @@
----
-layout: default
----
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;400;700&display=swap');
-
-  body { 
-    direction: rtl; 
-    text-align: right; 
-    font-family: 'Vazirmatn', sans-serif !important; 
-  }
-
-   html {
-    font-size: 24px !important;
-  }
-
-  .main-content, .page-header, .site-header, h1, h2, h3, h4, p, li, a {
-    font-family: 'Vazirmatn', sans-serif !important;
-    direction: rtl;
-    text-align: right;
-  }
-
-  .page-header {
-    text-align: center;
-  }
-
-  .main-content, .page-header {
-    max-width: 90% !important;
-    margin: 0 auto !important;
-  }
-</style>
 # راهنمای اینترنت آزاد: چگونه در زمان قطعی اینترنت، همچنان با دیگران در ارتباط بمانیم؟
 
 ---
